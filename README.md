@@ -31,19 +31,19 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Frontend**
 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 
 **Backend**
 
@@ -83,19 +83,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Language Breakdown
+
+<sub>Measured across <b>167 repositories</b> (public + private) — the real distribution of what I build.</sub>
+
+```text
+PHP          ██████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░  46.6%   ·  77 repos
+JavaScript   █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  18.9%   ·  115 repos
+Python       █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10.1%   ·  20 repos
+CSS          █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   9.9%   ·  99 repos
+Vue          ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.7%   ·  42 repos
+TypeScript   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.9%   ·  45 repos
+Blade / Dart / Kotlin / Shell / HCL (Terraform) …  (mobile + DevOps footprint)
+```
 
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=shojibur&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=7c3aed&icon_color=2563eb&text_color=555&bg_color=ffffff" alt="GitHub stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shojibur&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=2563eb&currStreakLabel=7c3aed" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shojibur&layout=compact&langs_count=8&hide_border=true&title_color=7c3aed&text_color=555&bg_color=ffffff" alt="Top languages across my public repositories"/>
-</p>
-
-<p align="center">
-  <sub>ℹ️ These cards reflect my <b>public</b> GitHub activity. Most of my work is in <b>private client & company repositories</b> — see <a href="https://shojibur.com/projects"><b>shojibur.com/projects</b></a> for the full body of work.</sub>
+  <sub>ℹ️ Most of my work lives in <b>private client & company repositories</b> — see <a href="https://shojibur.com/projects"><b>shojibur.com/projects</b></a> for detailed case studies.</sub>
 </p>
 
 ---
