@@ -86,16 +86,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=shojibur&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=7c3aed&icon_color=2563eb&text_color=555&bg_color=ffffff" alt="GitHub stats"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=shojibur&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=7c3aed&icon_color=2563eb&text_color=555&bg_color=ffffff" alt="GitHub stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shojibur&hide_border=true&stroke=7c3aed&ring=7c3aed&fire=2563eb&currStreakLabel=7c3aed" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <!-- Language breakdown pulled live from my repositories (public + private, when authorized) -->
-  <img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shojibur&layout=compact&count_private=true&langs_count=10&hide_border=true&title_color=7c3aed&text_color=555&bg_color=ffffff" alt="Top languages across my repositories"/>
+  <img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shojibur&layout=compact&langs_count=8&hide_border=true&title_color=7c3aed&text_color=555&bg_color=ffffff" alt="Top languages across my public repositories"/>
 </p>
 
-<p align="center"><sub>📈 Stats above are pulled live across all my repositories. Much of my work lives in private client repos.</sub></p>
+<p align="center">
+  <sub>ℹ️ These cards reflect my <b>public</b> GitHub activity. Most of my work is in <b>private client & company repositories</b> — see <a href="https://shojibur.com/projects"><b>shojibur.com/projects</b></a> for the full body of work.</sub>
+</p>
 
 ---
 
