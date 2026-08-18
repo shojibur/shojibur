@@ -20,16 +20,13 @@ Software engineer with 9+ years of experience building web platforms, custom app
 
 ---
 
-### Projects
+### What I build
 
-| Project | What it is |
-|---|---|
-| [HalalLensAI](https://github.com/shojibur/HalalLensAI) | Scan any product label → instant Halal assessment with explanation in your language. Built with Gemini. |
-| [FlowForge](https://github.com/shojibur/flowforge) | Turn any PDF into a shareable interactive web app — decision trees, guided checklists, photo-to-step helper. |
-| [ShojiBrain](https://github.com/shojibur/shojibrain) | Local-first AI codebase intelligence CLI. Structured project context for coding agents — no repeated full-repo scans. |
-| [Tool Calling Playground](https://github.com/shojibur/tool-calling-playground) | Notebooks and tooling for LLM tool calling with Ollama, vLLM, and LoRAX. |
-| [WP Monitor](https://github.com/shojibur/wp_monitor) | WordPress site monitoring dashboard with background queue workers. |
-| [shojibur.com](https://github.com/shojibur/shojibur.com) | My portfolio — custom WordPress theme with AI resume builder, cover letter generator, interview prep, and job tracker. |
+**At work (IPG)** — Enterprise web platforms, custom internal tools, APIs, SSO/SAML integrations, WordPress at scale, cloud infrastructure and DevOps.
+
+**Personal & freelance** — AI-powered products (Gemini, OpenAI, Claude), SaaS platforms, mobile apps (React Native, Flutter), fintech tools with Stripe/Adyen, e-commerce builds, and WordPress plugins.
+
+More repos going public soon.
 
 ---
 
